@@ -1,0 +1,1 @@
+Non Static methods can be called by creating objects of chid class in inhritance 
